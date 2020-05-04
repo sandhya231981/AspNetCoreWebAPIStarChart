@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWebAPIStarChart", "AspNetCoreWebAPIStarChart.csproj", "{A9095067-FA3F-4D9A-88D8-D408AB80433C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9095067-FA3F-4D9A-88D8-D408AB80433C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9095067-FA3F-4D9A-88D8-D408AB80433C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9095067-FA3F-4D9A-88D8-D408AB80433C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9095067-FA3F-4D9A-88D8-D408AB80433C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C813F0-A03F-469A-AF7A-40EC217984EE}
+	EndGlobalSection
+EndGlobal
